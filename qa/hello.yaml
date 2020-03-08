@@ -19,4 +19,5 @@ spec:
     spec:
       containers:
       - name: hello
-        image: e125156p/gitops:hellov1.2.2
+        image: e125156p/gitops:hellov1.0
+
